@@ -8,6 +8,3 @@ theme:
 
 extra_css:
   - css/custom.css
-
-nav:
-  - Home: index.md
