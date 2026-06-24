@@ -53,5 +53,3 @@ Dari Debian lahir berbagai turunan, salah satunya adalah **Ubuntu** yang dikemba
 Turunan Ubuntu lainnya seperti **Linux Mint** dan **Pop!_OS** hadir dengan fokus yang lebih spesifik. Linux Mint dirancang agar mudah digunakan oleh pengguna baru dengan tampilan yang mirip Windows, sementara Pop!_OS dioptimalkan untuk produktivitas, pengembangan perangkat lunak, serta dukungan perangkat keras modern terutama untuk GPU.
 
 Selain keluarga Debian, terdapat juga ekosistem lain yang besar dalam dunia Linux. Keluarga **Red Hat/Fedora** menggunakan format paket **.rpm** dengan manajer paket **DNF**, dan banyak digunakan di lingkungan enterprise. **Arch Linux** menawarkan pendekatan minimalis dengan sistem *rolling release* yang memberikan kontrol penuh kepada pengguna untuk membangun sistem dari awal. Sementara itu, **openSUSE** dikenal dengan alat konfigurasi sistem terpusat bernama YaST yang memudahkan pengelolaan sistem dalam skala kompleks.
-
----
