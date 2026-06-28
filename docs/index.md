@@ -4,7 +4,7 @@ Ekosistem Linux tidak dibangun sebagai satu entitas tunggal yang besar, melainka
 
 ---
 
-## 1. Sejarah dan Asal-usul Linux
+## Sejarah dan Asal-usul Linux
 
 Linux berawal pada tahun 1991 di Helsinki, Finlandia, ketika seorang mahasiswa bernama **Linus Torvalds** merasa tidak puas dengan keterbatasan sistem operasi *Minix*, yang saat itu digunakan sebagai media pembelajaran sistem operasi berbasis Unix. Linus kemudian memiliki tujuan untuk membuat sebuah kernel sistem operasi yang bersifat *Unix-like*, bebas, dan mampu berjalan secara optimal pada komputer pribadinya yang menggunakan prosesor Intel 386.
 
@@ -16,7 +16,7 @@ Keberhasilan Linux juga sangat dipengaruhi oleh keputusan Linus Torvalds untuk m
 
 ---
 
-## 2. Arsitektur Inti (Kernel Linux)
+## Arsitektur Inti (Kernel Linux)
 
 Di lapisan paling dasar dari sistem Linux terdapat **Kernel Linux**, yaitu inti sistem operasi yang berinteraksi langsung dengan perangkat keras komputer. Kernel berjalan dalam mode khusus yang disebut ***Kernel Mode***, yang memberikan akses penuh terhadap CPU, memori, dan perangkat keras lainnya.
 
@@ -28,7 +28,7 @@ Manajemen proses bertanggung jawab untuk mengatur siklus hidup proses, mulai dar
 
 ---
 
-## 3. Pembentukan Sistem Operasi Utuh
+## Pembentukan Sistem Operasi Utuh
 
 Meskipun kernel memiliki kendali penuh terhadap perangkat keras, kernel tidak dapat berinteraksi langsung dengan pengguna. Untuk menjadikan Linux sebagai sistem operasi yang dapat digunakan manusia, kernel harus dipadukan dengan komponen tambahan yang berada di ruang pengguna (*User Space*).
 
@@ -40,7 +40,7 @@ Selain itu, terdapat ***display server*** seperti Wayland atau Xorg yang bertuga
 
 ---
 
-## 4. Ekosistem Distribusi (Distro Linux)
+## Ekosistem Distribusi (Distro Linux)
 
 Distribusi Linux atau *distro* merupakan hasil pengemasan kernel Linux bersama berbagai komponen sistem dan aplikasi agar dapat digunakan oleh pengguna akhir. Setiap distro memiliki pendekatan, tujuan, dan target pengguna yang berbeda. Salah satu elemen paling penting yang membedakan antar distro adalah **package manager**, yaitu sistem yang digunakan untuk mengelola instalasi, pembaruan, dan penghapusan perangkat lunak.
 
